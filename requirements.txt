@@ -125,3 +125,5 @@ websocket-client
 websockets
 zipp
 zstandard
+dj-database-url
+psycopg2-binary
